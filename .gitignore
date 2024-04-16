@@ -1,0 +1,5 @@
+# Ignore compiled Java classes
+out/
+
+# Ignore IntelliJ IDEA project files
+*.iml
